@@ -4,7 +4,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-16+-green.svg)  
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)  
 
-**Türkçe | English**
+---
 
 Discord sunucunuzda **YouTube kanalınıza abone olan kullanıcıları** otomatik olarak doğrulayan ve onlara özel roller veren gelişmiş bir Discord botu.
 
@@ -26,7 +26,7 @@ Discord sunucunuzda **YouTube kanalınıza abone olan kullanıcıları** otomati
 ### Gereksinimler
 - Node.js **16.0.0** veya üzeri  
 - Discord hesabı ve sunucusu  
-- YouTube API anahtarı (isteğe bağlı)  
+- YouTube API anahtarı  
 
 ### Adım Adım Kurulum
 1. **Botu indirin ve kurun**
