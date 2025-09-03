@@ -1,0 +1,21 @@
+{
+  "token": "",
+  "clientId": "",
+  "guildId": "",
+  "channelId": "",
+  "roleId": "",
+  "logChannelId": "",
+  "youtubeApiKey": "",
+  "youtubeChannelId": "",
+  "allowedFormats": [
+    ".png",
+    ".jpg",
+    ".jpeg",
+    ".gif",
+    ".webp",
+    ".bmp"
+  ],
+  "maxFileSize": 10,
+  "cooldownTime": 30,
+  "verificationTimeout": 60000
+}
